@@ -1,9 +1,5 @@
 
-# My portfolio
-##<a href="https://swoofz.github.io/Portfolio">Portfolio</a>
+# My Portfolio
 
-
-Create a protfolio site for myself.
-
-##[Portfolio](https://swoofz.github.io/Portfolio)
+Create a [protfolio](https://swoofz.github.io/Portfolio) site for myself.
 
