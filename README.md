@@ -1,5 +1,5 @@
 
 # My Portfolio
 
-Create a [protfolio](https://swoofz.github.io/Portfolio) site for myself.
+Create a <a href="https://swoofz.github.io/Portfolio" target="_blank">Portfolio</a> site for myself.
 
