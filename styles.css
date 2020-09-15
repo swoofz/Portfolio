@@ -46,3 +46,21 @@ header ul li a:hover {
 header ul li a:active {
     color: grey;
 }
+section {
+    width: 100%;
+    height: 500px;
+    background-color: blue;
+    margin-bottom: 1px;
+}
+#selfie {
+    display: inline-block;
+    margin-left: 150px;
+    padding-top: 50px;
+    text-align: center;
+    vertical-align: top;
+    width: 280px;
+}
+#selfie img {
+    border: 2px solid black;
+    width: 100%;
+}
