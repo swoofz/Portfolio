@@ -93,6 +93,16 @@ h2 {
     text-align: center;
     text-decoration: underline;
 }
+#sip div {
+    margin: 0 auto;
+    width: 800px;
+}
+#sip div p {
+    padding: 50px 0 15px 0;
+}
+#sip div a {
+    margin-left: 350px;
+}
 
 
 
