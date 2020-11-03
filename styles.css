@@ -133,3 +133,14 @@ h2 {
 #project p a {
     color: white;
 }
+
+
+.slideShow {
+    padding: 150px 350px;
+}
+.slideIcon {
+    display: inline-block;
+    margin: 0 80px;
+    height: 50px;
+    width: 50px;
+}
