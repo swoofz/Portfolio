@@ -133,7 +133,15 @@ h3 {
     width: 100%;
     height:745px;
 }
-
+.not-started {
+    color: red;
+}
+.in-progress {
+    color: rgb(204, 204, 85);
+}
+.completed {
+    color: darkgreen;
+}
 
 
 
