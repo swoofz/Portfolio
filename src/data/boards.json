@@ -63,7 +63,8 @@
             {
                 "title": "Data Structures",
                 "description": [
-                    ""
+                    "In my Data Structures and Algorithms(CSC382) class where have to recreate well know data structures and algorithms. In this class I used C++ as the scripting language.",
+                    "The Data structure I recreated was Linked Links. Algorithms create with linked list was Quicksort and regular sort. Other than Linked Links I also recreated a Binary Search Tree."
                 ],
                 "link": "https://github.com/swoofz/Data_Structures",
                 "image": "LL_data.png"
@@ -84,9 +85,10 @@
             {
                 "title": "This Portfolio",
                 "description": [
-                    ""
+                    "Building this portfolio, I didn't want to copy and paste the same HTML format with different text. My solution was to use JavaScript with a json file to grab the data from and put it on the page.",
+                    "That solution work but I also want to be able to have multiple paragraphs. The way I got this to work was by turn a json value from string to and array then using each element within the array as a new paragraph."
                 ],
-                "link": "",
+                "link": "https://github.com/swoofz/Portfolio",
                 "image": "portfolio.png"
             },
             {
