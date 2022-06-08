@@ -1,0 +1,12 @@
+#container h1, #container h2{
+    text-align: center;
+}
+.not-started {
+    color: red;
+}
+.in-progress {
+    color: rgb(204, 204, 85);
+}
+.completed {
+    color: darkgreen;
+}

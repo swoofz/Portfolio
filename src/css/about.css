@@ -1,0 +1,38 @@
+#img {
+    display: inline-block;
+    border: 1px solid lightgrey;
+    vertical-align: top;
+    width: 20%;
+    height: 380px;
+    margin: 0 2%;
+}
+#info {
+    display: inline-block;
+    width: 75%;
+    height: 380px;
+}
+#container h1 {
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+#container h2 {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+#carsousel {
+    margin-top: 30px;
+    overflow: hidden;
+}
+.body {
+    font-size: 18px;
+    width: 75%;
+    margin: 20px auto;
+}
+.logo-container {
+    display: inline-block;
+    margin: 0 100px;
+    width: 150px;
+    height: 130px;
+}

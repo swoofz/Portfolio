@@ -1,0 +1,157 @@
+{
+    "Objective 1": {
+        "description": "Implement multiple completed games, including 3D games, using common tools, languages, and software for web, console, PC or mobile platforms.",
+        "projects": [
+            {
+                "title": "UAT Tanks",
+                "description": [
+                    "UAT Tanks is a school project that was created using Unity3D. It was created using C# as the scripting language for a 1st Person tank game."
+                ],
+                "link": "https://github.com/swoofz/GPE205",
+                "image": "UATTanks.png"
+            },
+            {
+                "title": "Sneaky McSneakface",
+                "description": [
+                    "Sneaky McSneakface is another school project that was created using Unity3D and C# as the scripting language. This is a top-down 2D stealth game."
+                ],
+                "link": "https://github.com/swoofz/UAT-Project-3",
+                "image": "Sneak.png"
+            },
+            {
+                "title": "Top Down Shooter",
+                "description": [
+                    "Top Down Shooter is as the name suggest, a top-down survival shooter game that is created in the 3D space. This game was created for a school project using Unity3D and C#."
+                ],
+                "link": "https://github.com/swoofz/GPE340",
+                "image": "TDS.png"
+            }
+        ]
+    },
+    "Objective 2": {
+        "description": "Design, develop, and implement the architecture and infrastructure needed to support a complete game project.",
+        "projects": [
+            {
+                "title": "UAT Tanks",
+                "description": [
+                    "UAT Tanks was created to be a finished project for school. This project provides settings for the player's needs. It can be played on different maps that get generated. It also has sound effects, menus, and gameplay."
+                ],
+                "link": "https://github.com/swoofz/GPE205",
+                "image": "UATTanks.png"
+            },
+            {
+                "title": "Top Down Shooter",
+                "description": [
+                    "Top Down Shooter is also a project that was to be completed for school. In this project, it provides menus for the player to nagivate around the game. There are settings that can be adjust to the player needs. There are also sounds that with play while the player is playing."
+                ],
+                "link": "https://github.com/swoofz/GPE340",
+                "image": "TDS.png"
+            },
+            {
+                "title": "Avoidance",
+                "description": [
+                    "Advoidance is a small side project game that I made just to get more experience with python. In this game their is a menu system that has takes you to the, gameplay, settings, saved scores, how to play, and closing the game. This game saves and loads settings, and saved scores that the player make to the client."
+                ],
+                "link": "https://github.com/swoofz/Pygame_Avoidance_Game",
+                "image": "Avoidance.png"
+            }
+        ]
+    },
+    "Objective 3": {
+        "description": "Implement and analyze fundamental data structures and algorithms associated with game applications supporting gameplay mechanics.",
+        "projects": [
+            {
+                "title": "Data Structures",
+                "description": [
+                    ""
+                ],
+                "link": "https://github.com/swoofz/Data_Structures",
+                "image": "LL_data.png"
+            },
+            {
+                "title": "SIP",
+                "description": [
+                    ""
+                ],
+                "link": "",
+                "image": ""
+            }
+        ]
+    },
+    "Objective 4": {
+        "description": "Use software development processes to analyze a project problem, and to design, build and test a corresponding software solution.",
+        "projects": [
+            {
+                "title": "This Portfolio",
+                "description": [
+                    ""
+                ],
+                "link": "",
+                "image": "portfolio.png"
+            },
+            {
+                "title": "SIP",
+                "description": [
+                    ""
+                ],
+                "link": "",
+                "image": ""
+            }
+        ]
+    },
+    "Objective 5": {
+        "description": "Demonstrate development skills using multiple programming languages, development environments and platforms, including advanced and/or experimental topics in game programming.",
+        "projects": [
+            {
+                "title": "Avoidance",
+                "description": [
+                    "Avoidance is a small game created using Python as the scripting language. This project was created in Visual Studio Code editor.",
+                    "Libraries that were including into this project was: pygame and json. Pygame was used to create a window and create the element on that window, while json was included to save/load data for the game."
+                ],
+                "link": "https://github.com/swoofz/Pygame_Avoidance_Game",
+                "image": "Avoidance.png"
+            },
+            {
+                "title": "Adventure Guild Simulation",
+                "description": [
+                    "Adventure Guild Simulation was created using C# as the scripting language. This project was created in Visual Studio 2022.",
+                    "The project used C# Windows form to create the simulation of being in a Fansty like Adventure Guild. This project also uses text file to save and load data for the simulation to run."
+                ],
+                "link": "https://github.com/swoofz/Adventure_Guild",
+                "image": "AGS.png"
+            },
+            {
+                "title": "UAT Tanks",
+                "description": [
+                    "UAT Tanks was created using C# in the Unity3D game engine as the scripting language.",
+                    "This project only was using the library from Unity3D such as the physics and collision libraries. In this project we imported UI assest to make the UI look different, while as adding code to update it."
+                ],
+                "link": "https://github.com/swoofz/GPE205",
+                "image": "UATTanks.png"
+            }
+        ]
+    },
+    "Objective 6": {
+        "description": "Establish collaboration, mentorship, and professional leadership skills by working with other disciplines to deliver highly polished and completed projects.",
+        "projects": [
+            {
+                "title": "Happy Skies",
+                "description": [
+                    "Happy Skies is a 2D mobile game. It was worked on using Unity3D. This was a greenlight project for school.",
+                    "For this project I was mostly expanding existing features. One feature was to add a modifier to power-ups that the player can collect. While working on that, I added a visual indication for the player to tell when they can increase a modifier."
+                ],
+                "link": "",
+                "image": "HS_Logo.png"
+            },
+            {
+                "title": "Twitlitics",
+                "description": [
+                    "Twitlitics is a web site that looks at the data from twitter. It was created using HTML, CSS, and nodejs.",
+                    "While this is not a game project this project was created in a team of 3 people. In this project I started off working with one other person on the backend since one of our team members like doing the design. As the design came in, I took the part of making sure the front-end connected correctly with the back-end."
+                ],
+                "link": "https://github.com/swoofz/WDI-45-Project_3",
+                "image": "Twitlitics.png"
+            }
+        ]
+    }
+}

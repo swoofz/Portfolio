@@ -1,0 +1,32 @@
+{
+    "Project Title 1": {
+        "image": "protoype.png",
+        "github": "link_to_project_code",
+        "project_type": "type_of_project__game_or_web__",
+        "description": "project_complete_description_here"
+    },
+    "Project Title 2": {
+        "image": "Selfie.jpeg",
+        "github": "link_to_project_code",
+        "project_type": "type_of_project__game_or_web__",
+        "description": "project_complete_description_here"
+    },
+    "Project Title 3": {
+        "image": "protoype.png",
+        "github": "link_to_project_code",
+        "project_type": "type_of_project__game_or_web__",
+        "description": "project_complete_description_here"
+    },
+    "Project Title 4": {
+        "image": "Selfie.jpeg",
+        "github": "link_to_project_code",
+        "project_type": "type_of_project__game_or_web__",
+        "description": "project_complete_description_here"
+    },
+    "Project Title 5": {
+        "image": "Selfie.jpeg",
+        "github": "link_to_project_code",
+        "project_type": "type_of_project__game_or_web__",
+        "description": "project_complete_description_here"
+    }
+}

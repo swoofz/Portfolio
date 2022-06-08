@@ -1,0 +1,14 @@
+#nav li {
+    background: lightgray;
+    margin: 5px;
+    height: 10%;
+    width: 97%;
+    display: table;
+    border: 1px solid black;
+}
+#nav li p {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 30px;
+}

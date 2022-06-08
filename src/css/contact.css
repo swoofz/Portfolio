@@ -1,0 +1,42 @@
+#container {
+    text-align: center;
+    overflow: hidden;
+}
+form {
+    width: 45%;
+    height: 100%;
+    display: inline-block;
+}
+.contact-text, form {
+    margin-top: 18%;
+}
+.contact-text {
+    width: 30%;
+    text-align: left;
+    display: inline-block;
+    vertical-align: top;
+}
+.contact-text h3, .contact-text p {
+    margin-left: 10%;
+    margin-bottom: 10px;
+}
+.contact-text p {
+    font-size: 18px;
+}
+.input, textarea {
+    width: 90%;
+    margin: 3px;
+}
+.input {
+    height: 3%;
+}
+textarea {
+    height: 15%;
+    resize: none;
+}
+.submit {
+    width: 15%;
+    height: 3%;
+    border-radius: 15px;
+    border: none;
+}
