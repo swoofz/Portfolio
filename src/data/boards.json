@@ -63,7 +63,7 @@
             {
                 "title": "Data Structures",
                 "description": [
-                    "In my Data Structures and Algorithms(CSC382) class where have to recreate well know data structures and algorithms. In this class I used C++ as the scripting language.",
+                    "In my Data Structures and Algorithms(CSC382) class is where I have to recreate well know data structures and algorithms. In this class I used C++ as the scripting language.",
                     "The Data structure I recreated was Linked Links. Algorithms create with linked list was Quicksort and regular sort. Other than Linked Links I also recreated a Binary Search Tree."
                 ],
                 "link": "https://github.com/swoofz/Data_Structures",
@@ -72,10 +72,11 @@
             {
                 "title": "SIP",
                 "description": [
-                    ""
+                    "SIP is my Student Innovation Project that is being built in Unity3D and using c# as the scripting language.",
+                    "In this data driven project I used Lists to store data about objects. Some of the data was self created such as a button class that store the button name and state it was in by index."
                 ],
-                "link": "",
-                "image": ""
+                "link": "https://github.com/swoofz/SIP",
+                "image": "btndata.png"
             }
         ]
     },
@@ -94,10 +95,11 @@
             {
                 "title": "SIP",
                 "description": [
-                    ""
+                    "SIP is my Student Innovation Project that I am working on creating a data driven ability system. The project is being built in Unity3D and using c# as the scripting language.",
+                    "I came into a problem when I wanted to save the ability data that was created because I wanted to save it in a json file. Of course Unity has a way to save to a json file, but using their way of saving wasn't giving me the correct result. Since I want to use a json file I decided to create a string that is formatted for the data to save/load in as."
                 ],
-                "link": "",
-                "image": ""
+                "link": "https://github.com/swoofz/SIP",
+                "image": "abilitycreate.png"
             }
         ]
     },
