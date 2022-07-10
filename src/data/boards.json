@@ -84,13 +84,13 @@
         "description": "Use software development processes to analyze a project problem, and to design, build and test a corresponding software solution.",
         "projects": [
             {
-                "title": "This Portfolio",
+                "title": "Avoidance",
                 "description": [
-                    "Building this portfolio, I didn't want to copy and paste the same HTML format with different text. My solution was to use JavaScript with a json file to grab the data from and put it on the page.",
-                    "That solution work but I also want to be able to have multiple paragraphs. The way I got this to work was by turn a json value from string to and array then using each element within the array as a new paragraph."
+                    "When working on Avoidance I arcoss a problem that made the game feel kind of boring and uncontrollable. The player had to dodge enemies coming arcoss the screen but enemies moved pretty fast to the point if they spawn right on the player position they would be almost impossible to dodge.",
+                    "To fix this problem I made the enemies move a lot slower so that their is more enemy to dodge as more a more spawn in. This also allowed me to increase the number of enemies that can spawn in over time."
                 ],
-                "link": "https://github.com/swoofz/Portfolio",
-                "image": "portfolio.png"
+                "link": "https://github.com/swoofz/Pygame_Avoidance_Game",
+                "image": "Avoidance.png"
             },
             {
                 "title": "SIP",
@@ -100,6 +100,15 @@
                 ],
                 "link": "https://github.com/swoofz/SIP",
                 "image": "abilitycreate.png"
+            },
+            {
+                "title": "This Portfolio",
+                "description": [
+                    "Building this portfolio, I didn't want to copy and paste the same HTML format with different text. My solution was to use JavaScript with a json file to grab the data from and put it on the page.",
+                    "That solution work but I also want to be able to have multiple paragraphs. The way I got this to work was by turn a json value from string to and array then using each element within the array as a new paragraph."
+                ],
+                "link": "https://github.com/swoofz/Portfolio",
+                "image": "portfolio.png"
             }
         ]
     },
@@ -118,7 +127,7 @@
             {
                 "title": "Adventure Guild Simulation",
                 "description": [
-                    "Adventure Guild Simulation was created using C# as the scripting language. This project was created in Visual Studio 2022.",
+                    "Adventure Guild Simulation was created using C# as the scripting language. This project was created in Visual Studio 2019.",
                     "The project used C# Windows form to create the simulation of being in a Fansty like Adventure Guild. This project also uses text file to save and load data for the simulation to run."
                 ],
                 "link": "https://github.com/swoofz/Adventure_Guild",
