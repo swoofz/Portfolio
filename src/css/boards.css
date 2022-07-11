@@ -1,0 +1,52 @@
+.left, .right {
+    margin-top: 20px;
+}
+.left .project-img, .right .project-info {
+    vertical-align: top;
+    margin-right: 1%;
+    margin-left: 10%;
+}
+.center-text{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.project-img, .project-info {
+    display: inline-block;
+    height: 235px;
+}
+.project-img {
+    width: 25%;
+}
+.project-info {
+    width: 50%;
+}
+.git-link {
+    width: 48%;
+    position: absolute;
+    bottom: 0;
+}
+.git-link div {
+    text-align: right;
+    padding-bottom: 7px;
+}
+
+.center-project-info  {
+    position: relative;
+    width: 100%;
+}
+iframe {
+    margin-top: 30px;
+    width: 600px;
+    height: 300px
+}
+
+@media only screen and (max-width: 650px) {
+    .project-img, .project-info {
+        height: 200px;
+    }
+
+    .project-img {
+        height: 150px;
+        margin-top: 20px;
+    }
+}
