@@ -2,8 +2,8 @@ let carsousel;
 // index.html ids': nav, content, footer
 window.addEventListener('load', function() {
     // loadHtml parms: (id, filename)
-    loadHtml("nav", "__nav__")
-    loadHtml("footer", "__footer__")
+    // loadHtml("nav", "__nav__")
+    // loadHtml("footer", "__footer__")
     loadContent()
 })
 

@@ -4,13 +4,74 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="src/styles.css">
     <script src="src/main.js"></script>
     <title>Portfolio</title>
 </head>
 <body>
     <header id="nav">
-        <!-- Import Header on load -->
+        <nav>
+            <ul>
+                <a href="#home" onclick="loadHtml('content', 'about')">
+                    <li class="sidebar">
+                        <div>
+                            <img src="src/img/icons/home-i.png">
+                            <p>Home</p>
+                        </div>
+                    </li>
+                    <li class="icon">
+                        <img src="src/img/icons/home-i_s.png">
+                        <p>Home</p>
+                    </li>
+                </a>
+                <!-- <a href="#projects" onclick="loadHtml('content', 'projects')">
+                    <li>
+                        <div>
+                            <img src="src/img/icons/project-i.png">
+                            <p>Projects</p>
+                        </div>
+                    </li>
+                    <li class="icon"><img src="src/img/icons/project-i_s.png"></li>
+                </a> -->
+                <a href="#sip" onclick="loadHtml('content', 'sip')">
+                    <li class="sidebar">
+                        <div>
+                            <img src="src/img/icons/sip-i.png">
+                            <p>SIP</p>
+                        </div>
+                    </li>
+                    <li class="icon">
+                        <img src="src/img/icons/sip-i_s.png">
+                        <p>SIP</p>
+                    </li>
+                </a>
+                <a href="#boards" onclick="loadHtml('content', 'boards')">
+                    <li class="sidebar">
+                        <div>
+                            <img src="src/img/icons/board-i.png" >
+                            <p>Boards</p>
+                        </div>
+                    </li>
+                    <li class="icon">
+                        <img src="src/img/icons/board-i_s.png">
+                        <p>Boards</p>
+                    </li>
+                </a>
+                <!-- <a href="#contact" onclick="loadHtml('content', 'contact')">
+                    <li class="sidebar">
+                        <div>
+                            <img src="src/img/icons/contact-i.png">
+                            <p>Contact</p>
+                        </div>
+                    </li>
+                    <li class="icon">
+                        <img src="src/img/icons/contact-i_s.png">
+                        <p>Contact</p>
+                    </li>
+                </a> -->
+            </ul>
+        </nav>
     </header>
 
     <main id="content">
@@ -18,7 +79,29 @@
     </main>
 
     <footer id="footer">
-        <!-- Import Footer on load -->
+        <div>
+            <div class="sep" style="display: inline-block; margin-left: 2%;">
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-github"></a>
+            </div>
+        
+            <div class="sep center">
+                <p>|</p>
+            </div>
+            <div class="sep center">
+                <p>© Jordan Hall 2022</p>
+            </div>
+            <!-- <p class="sep">© Jordan Hall 2022</p> -->
+            <div class="sep center">
+                <p>|</p>
+            </div>
+            <!-- <p class="sep">Contact: (661) 703 - 1313</p> -->
+            <div class="sep">
+                <p>Contact: (661) 703 - 1313</p>
+            </div>
+        </div>
     </footer>
 </body>
 </html>
